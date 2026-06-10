@@ -1,0 +1,860 @@
+[
+  {
+    "id": "shahada",
+    "title": "Shahada - Declaration of Faith",
+    "image": "aqeedah.webp",
+    "emoji": "☪️",
+    "category": "pillars_of_islam",
+    "content": {
+      "starter": "The Shahada says: \"There is no god but Allah, and Muhammad is His messenger.\" This is the most important sentence in Islam! When we say it, we tell everyone we believe in Allah and love His Prophet. It makes our heart light and happy!",
+      "explorer": "The Shahada is the first pillar of Islam. It has two parts: first, believing that only Allah is God — no one else deserves worship. Second, believing that Prophet Muhammad ﷺ is Allah's final messenger. Saying the Shahada with sincerity makes you Muslim. It's not just words — it's a promise from your heart to follow Allah's guidance.",
+      "thinker": "The Shahada is far more than a declaration — it's a complete worldview. The first part, \"La ilaha illallah,\" negates all false gods and affirms monotheism (Tawheed). The second part, \"Muhammadun rasulullah,\" establishes the prophetic authority of Muhammad ﷺ. Together, they form the foundation upon which all other Islamic practices are built. Understanding the Shahada means understanding the essence of submission to Allah."
+    },
+    "funFact": "Did you know? The Shahada is whispered into a newborn baby's ear and is also the last words many Muslims hope to say before they pass away!",
+    "quiz": [
+      {
+        "q": "What does Shahada mean?",
+        "options": ["Declaration of Faith", "Daily Prayer", "Charity Giving"],
+        "correct": 0,
+        "explanation": "Shahada means 'Declaration of Faith' — it's the statement that makes someone Muslim."
+      },
+      {
+        "q": "How many parts does the Shahada have?",
+        "options": ["One part", "Two parts", "Three parts"],
+        "correct": 1,
+        "explanation": "The Shahada has two parts: believing in one God and believing Muhammad is His messenger."
+      },
+      {
+        "q": "Who is the last prophet mentioned in the Shahada?",
+        "options": ["Prophet Musa", "Prophet Isa", "Prophet Muhammad"],
+        "correct": 2,
+        "explanation": "The Shahada mentions Prophet Muhammad ﷺ as Allah's final messenger."
+      }
+    ]
+  },
+  {
+    "id": "salah",
+    "title": "Salah - Prayer",
+    "image": "prayer_salah.webp",
+    "emoji": "🤲",
+    "category": "pillars_of_islam",
+    "content": {
+      "starter": "Salah is talking to Allah! Five times a day, we stop what we're doing, wash our hands and face (that's called wudu), face Mecca, and pray. It's like a special phone call to Allah. He loves when we talk to Him!",
+      "explorer": "Salah is the second pillar of Islam. Muslims pray five times a day: Fajr (dawn), Dhuhr (noon), Asr (afternoon), Maghrib (sunset), and Isha (night). Each prayer involves standing, bowing, and prostrating while reciting verses from the Quran. Salah keeps us connected to Allah throughout the day and teaches us discipline and gratitude.",
+      "thinker": "The five daily prayers (Salawat) are a gift from Allah, prescribed during the Night Journey (Isra and Mi'raj). Each prayer corresponds to a spiritual state: Fajr purifies the soul before the day begins, Dhuhr provides a midday recharge, Asr encourages reflection, Maghrib marks gratitude for the day's blessings, and Isha offers peace before sleep. The physical movements — standing (qiyam), bowing (ruku), and prostration (sujud) — are acts of humility that remind us of our relationship with our Creator."
+    },
+    "funFact": "Did you know? Muslims face the Kaaba in Mecca when they pray, no matter where they are in the world! Even from space, astronauts pray toward Mecca!",
+    "quiz": [
+      {
+        "q": "How many times a day do Muslims pray?",
+        "options": ["Three times", "Five times", "Seven times"],
+        "correct": 1,
+        "explanation": "Muslims pray five times a day: Fajr, Dhuhr, Asr, Maghrib, and Isha."
+      },
+      {
+        "q": "What do we do before praying?",
+        "options": ["Eat food", "Perform wudu (ablution)", "Read a book"],
+        "clean": 1,
+        "explanation": "We perform wudu (ablution) to clean ourselves before praying."
+      },
+      {
+        "q": "Which direction do Muslims face when praying?",
+        "options": ["North", "The Kaaba in Mecca", "East"],
+        "correct": 1,
+        "explanation": "Muslims face the Kaaba in Mecca, which is called the Qibla."
+      }
+    ]
+  },
+  {
+    "id": "zakat",
+    "title": "Zakat - Charity",
+    "image": "zakat.webp",
+    "emoji": "💰",
+    "category": "pillars_of_islam",
+    "content": {
+      "starter": "Zakat means sharing what we have with others! If we have extra money, we give a little bit to people who need it. It's like Allah is asking us to be kind and share. When we give, our hearts feel happy!",
+      "explorer": "Zakat is the third pillar of Islam. It means giving 2.5% of your savings each year to those in need. It's not optional — it's an obligation for Muslims who have wealth above a certain amount. Zakat purifies our money and reminds us that everything belongs to Allah. It helps the poor, pays off debts, and strengthens the community.",
+      "thinker": "Zakat is both a social and spiritual obligation. The word 'zakat' means 'purification' and 'growth' — by giving a portion of our wealth, we purify the remainder and grow spiritually. Allah says in the Quran that those who pay Zakat are helping to purify themselves (At-Tawbah 9:103). The fixed rate of 2.5% (one-fortieth) applies to savings held for one lunar year above the nisab threshold. This systematic approach to wealth redistribution was revolutionary and remains one of Islam's most powerful social justice mechanisms."
+    },
+    "funFact": "Did you know? The word 'Zakat' means 'purification' — when you give Zakat, your remaining money becomes blessed and pure!",
+    "quiz": [
+      {
+        "q": "What percentage of savings is given as Zakat?",
+        "options": ["1%", "2.5%", "10%"],
+        "correct": 1,
+        "explanation": "Muslims give 2.5% (one-fortieth) of their savings as Zakat each year."
+      },
+      {
+        "q": "What does the word 'Zakat' mean?",
+        "options": ["Charity", "Purification", "Prayer"],
+        "correct": 1,
+        "explanation": "Zakat means 'purification' — it purifies our wealth and our hearts."
+      },
+      {
+        "q": "Who receives Zakat?",
+        "options": ["Only family", "People in need", "Only the rich"],
+        "correct": 1,
+        "explanation": "Zakat is given to people in need, including the poor, debtors, and travelers."
+      }
+    ]
+  },
+  {
+    "id": "sawm",
+    "title": "Sawm - Fasting in Ramadan",
+    "image": "ramadan_fasting.webp",
+    "emoji": "🌙",
+    "category": "pillars_of_islam",
+    "content": {
+      "starter": "During Ramadan, we don't eat or drink from sunrise to sunset. That's called fasting! It teaches us to be patient and think about people who don't have food. At night, we break our fast with family and pray together. It's very special!",
+      "explorer": "Sawm means fasting during the month of Ramadan, the fourth pillar of Islam. From dawn to sunset, Muslims abstain from food, drink, and other physical needs. But fasting is not just about staying hungry — it's about building patience, empathy for the poor, and getting closer to Allah. The fast is broken at sunset with a meal called Iftar, often shared with family and community.",
+      "thinker": "Sawm during Ramadan is a comprehensive act of worship that trains the body, mind, and soul. The Quran was first revealed during Ramadan (Surah Al-Baqarah 2:185), making this month especially sacred. Fasting develops taqwa (God-consciousness) by creating a physical reminder of Allah's presence. Beyond abstaining from food and drink, Muslims are encouraged to avoid negative speech, anger, and gossip. The pre-dawn meal (Suhoor) and sunset meal (Iftar) create a rhythm of gratitude and community that transforms the entire month."
+    },
+    "funFact": "Did you know? Muslims break their fast with dates, just like Prophet Muhammad ﷺ used to! The word 'Iftar' means 'breaking the fast'!",
+    "quiz": [
+      {
+        "q": "During which month do Muslims fast?",
+        "options": ["Muharram", "Ramadan", "Shawwal"],
+        "correct": 1,
+        "explanation": "Muslims fast during the holy month of Ramadan."
+      },
+      {
+        "q": "What is the meal called when we break our fast?",
+        "options": ["Suhoor", "Iftar", "Dhuhr"],
+        "correct": 1,
+        "explanation": "The meal at sunset to break the fast is called Iftar."
+      },
+      {
+        "q": "What food did Prophet Muhammad ﷺ use to break his fast?",
+        "options": ["Bread", "Dates", "Rice"],
+        "correct": 1,
+        "explanation": "Prophet Muhammad ﷺ would break his fast with dates and water."
+      }
+    ]
+  },
+  {
+    "id": "hajj",
+    "title": "Hajj - Pilgrimage to Mecca",
+    "image": "hajj_overview.webp",
+    "emoji": "🕋",
+    "category": "pillars_of_islam",
+    "content": {
+      "starter": "Hajj is a big trip to Mecca! Every Muslim who is able goes there to pray around the Kaaba — Allah's house. Millions of people go together, wearing simple white clothes. Everyone is equal there — rich or poor, it doesn't matter!",
+      "explorer": "Hajj is the fifth pillar of Islam — a pilgrimage to Mecca that every Muslim must make at least once in their lifetime if they are able. It happens during the Islamic month of Dhul Hijjah. Pilgrims wear simple white clothes called Ihram, circling the Kaaba, walking between hills, and standing in prayer at Arafat. Hajj teaches equality, patience, and devotion to Allah.",
+      "thinker": "Hajj is the world's largest annual gathering and represents the ultimate expression of Islamic unity. Following the footsteps of Prophet Ibrahim ﷺ and his family, pilgrims perform rituals that symbolize sacrifice, purification, and submission to Allah. The wearing of Ihram strips away all markers of wealth and status — everyone stands equal before Allah. The Prophet ﷺ said: 'Hajj is an obligation once in a lifetime for whoever has the ability.' It is a profound spiritual journey that cleanses sins and renews one's connection with the Creator."
+    },
+    "funFact": "Did you know? Over 2 million people perform Hajj every year! When pilgrims throw stones at the pillars (Jamarat), they're following the example of Prophet Ibrahim!",
+    "quiz": [
+      {
+        "q": "How often must a Muslim perform Hajj?",
+        "options": ["Every year", "Once in a lifetime", "Every 5 years"],
+        "correct": 1,
+        "explanation": "Every Muslim who is able must perform Hajj at least once in their lifetime."
+      },
+      {
+        "q": "What do pilgrims wear during Hajj?",
+        "options": ["Regular clothes", "Simple white clothes called Ihram", "Black clothes"],
+        "correct": 1,
+        "explanation": "Pilgrims wear simple white clothes called Ihram to show everyone is equal."
+      },
+      {
+        "q": "Which prophet's example do pilgrims follow at Hajj?",
+        "options": ["Prophet Musa", "Prophet Ibrahim", "Prophet Isa"],
+        "correct": 1,
+        "explanation": "Pilgrims follow the example of Prophet Ibrahim ﷺ and his family."
+      }
+    ]
+  },
+  {
+    "id": "tawheed",
+    "title": "Tawheed - Oneness of God",
+    "image": "aqeedah.webp",
+    "emoji": "☝️",
+    "category": "core_beliefs",
+    "content": {
+      "starter": "Tawheed means there is ONLY ONE God — Allah! He created everything: you, me, the stars, the animals, everything! We only pray to Allah, not to anyone else. Allah is the only one who deserves our love and worship!",
+      "explorer": "Tawheed is the most important belief in Islam — that there is only one God, Allah. He has no partners, no family, and no equals. He is the Creator of everything and the only one worthy of worship. Understanding Tawheed means we don't pray to statues, people, or anything else — only to Allah. This belief is the foundation of everything in Islam.",
+      "thinker": "Tawheed is the cornerstone of Islamic theology, encompassing three dimensions: Tawheed ar-Rububiyyah (Oneness of Lordship), Tawheed al-Uluhiyyah (Oneness of Worship), and Tawheed al-Asma wa'l-Sifat (Oneness of Names and Attributes). The first recognizes Allah as the sole Creator and Sustainer. The second directs all forms of worship exclusively to Him. The third affirms that Allah's attributes are unique and incomparable. The Quran states: 'Say, He is Allah, the One. Allah, the Eternal Refuge. He neither begets nor is begotten. And there is none comparable to Him' (Surah Al-Ikhlas 112:1-4)."
+    },
+    "funFact": "Did you know? The word 'Islam' comes from the root 'salaam' which means peace, and it means submission to Allah — the One God!",
+    "quiz": [
+      {
+        "q": "What does Tawheed mean?",
+        "options": ["Many gods", "Oneness of God", "Prayer"],
+        "correct": 1,
+        "explanation": "Tawheed means the Oneness of God — believing there is only one God, Allah."
+      },
+      {
+        "q": "How many gods does Islam teach us about?",
+        "options": ["Many gods", "Only one God", "Two gods"],
+        "correct": 1,
+        "explanation": "Islam teaches us that there is only one God — Allah."
+      },
+      {
+        "q": "Which surah of the Quran talks about Tawheed?",
+        "options": ["Al-Fatiha", "Al-Ikhlas", "Al-Baqarah"],
+        "correct": 1,
+        "explanation": "Surah Al-Ikhlas (112) talks about the Oneness of God."
+      }
+    ]
+  },
+  {
+    "id": "angels",
+    "title": "Angels",
+    "image": "imgi_10_pillar_duas.webp",
+    "emoji": "👼",
+    "category": "core_beliefs",
+    "content": {
+      "starter": "Angels are special creatures made of light! Allah sends them to help us. Some angels write down our good and bad deeds. Some angels take our souls when it's time. Angels always obey Allah and never make mistakes!",
+      "explorer": "Angels are one of the six articles of faith in Islam. They are created from light and always obey Allah. The most famous angel is Jibril (Gabriel), who brought Allah's messages to the prophets. Other important angels include Mikail (Michael), Israfil (who will blow the trumpet on Judgment Day), and Azra'il (the angel of death). Angels record our deeds and protect us.",
+      "thinker": "Angels (Mala'ika) are a fundamental article of Islamic belief. Created from light, they exist in a different dimension and serve Allah in various capacities. Jibril (Gabriel) delivered the Quran to Prophet Muhammad ﷺ. The Kiraman Katibin are recording angels who document every deed. The angel Munkar and Nakir question the dead in their graves. Unlike humans, angels have no free will — they always obey Allah. Their existence reminds us that we are never truly alone and that our actions are always being witnessed."
+    },
+    "funFact": "Did you know? Angels have wings! Some have two, some have three, some have four — and Prophet Muhammad ﷺ saw the angel Jibril with 600 wings!",
+    "quiz": [
+      {
+        "q": "What are angels made of?",
+        "options": ["Fire", "Light", "Water"],
+        "correct": 1,
+        "explanation": "Angels are created from light."
+      },
+      {
+        "q": "Which angel brought messages to the prophets?",
+        "options": ["Mikail", "Jibril", "Israfil"],
+        "correct": 1,
+        "explanation": "Jibril (Gabriel) brought Allah's messages to the prophets."
+      },
+      {
+        "q": "Do angels have free will?",
+        "options": ["Yes, they can choose", "No, they always obey Allah", "Sometimes"],
+        "correct": 1,
+        "explanation": "Angels always obey Allah — they don't have free will like humans."
+      }
+    ]
+  },
+  {
+    "id": "holy_books",
+    "title": "Holy Books",
+    "image": "quran_arabic.webp",
+    "emoji": "📕",
+    "category": "core_beliefs",
+    "content": {
+      "starter": "Allah sent holy books to guide people! The most important one for us is the Quran — Allah's final book, sent to Prophet Muhammad ﷺ. Before that, Allah sent the Torah to Musa, the Zabur to Dawud, and the Injil to Isa. The Quran is special because Allah promised to protect it!",
+      "explorer": "Muslims believe that Allah revealed several holy books to guide humanity. The Tawrat (Torah) was given to Prophet Musa, the Zabur (Psalms) to Prophet Dawud, and the Injil (Gospel) to Prophet Isa. The Quran is the final and most complete revelation, sent to Prophet Muhammad ﷺ. We believe the earlier books were changed over time, but the Quran has been preserved exactly as Allah revealed it.",
+      "thinker": "The belief in holy books (Kutub) is the third article of Islamic faith. Allah revealed guidance through various scriptures: the Sahifat to Ibrahim, the Tawrat to Musa, the Zabur to Dawud, the Injil to Isa, and the Quran to Muhammad ﷺ. While Muslims respect all these revelations, we believe the Quran is the final and preserved word of Allah. It was revealed over 23 years and has been memorized by millions of huffaz (memorizers) throughout history. The Quran is unique in that Allah Himself guaranteed its preservation: 'Indeed, it is We who sent down the Quran and indeed, We will be its guardian' (Surah Al-Hijr 15:9)."
+    },
+    "funFact": "Did you know? The Quran has been completely memorized by millions of people around the world — and some children as young as 7 years old!",
+    "quiz": [
+      {
+        "q": "Which is the final holy book in Islam?",
+        "options": ["Torah", "Bible", "Quran"],
+        "correct": 2,
+        "explanation": "The Quran is the final and most complete holy book sent by Allah."
+      },
+      {
+        "q": "Which prophet received the Torah?",
+        "options": ["Prophet Ibrahim", "Prophet Musa", "Prophet Isa"],
+        "correct": 1,
+        "explanation": "The Torah (Tawrat) was given to Prophet Musa (Moses)."
+      },
+      {
+        "q": "What makes the Quran special?",
+        "options": ["It's the oldest book", "Allah promised to protect it", "It has many pages"],
+        "correct": 1,
+        "explanation": "Allah promised to protect the Quran from being changed — it's preserved exactly as revealed."
+      }
+    ]
+  },
+  {
+    "id": "prophets",
+    "title": "Prophets of Allah",
+    "image": "prophet_stories.webp",
+    "emoji": "🧑\u200D🏫",
+    "category": "core_beliefs",
+    "content": {
+      "starter": "Allah sent many prophets to guide people! We believe in 25 prophets, like Adam, Ibrahim, Musa, Isa, and the last one, Muhammad ﷺ. They were all good people who taught us to worship Allah and be kind to others!",
+      "explorer": "Allah sent prophets to every nation throughout history to guide people to the right path. We know of 25 prophets mentioned in the Quran, including Adam, Nuh, Ibrahim, Musa, Isa, and Muhammad ﷺ. All prophets taught the same message: worship Allah alone and be good to others. Prophet Muhammad ﷺ is the last and final prophet.",
+      "thinker": "The belief in prophets (Anbiya) is the fourth article of Islamic faith. Allah sent 124,000 prophets to guide humanity, with 25 specifically mentioned in the Quran. They include the five greatest prophets (Ulul-Azm): Nuh, Ibrahim, Musa, Isa, and Muhammad ﷺ. Each prophet was sent to a specific nation but carried the same universal message of Tawheed and moral conduct. Prophet Muhammad ﷺ is the Seal of the Prophets (Khatam an-Nabiyyin), meaning no new prophet will come after him. His message is for all of humanity until the Day of Judgment."
+    },
+    "funFact": "Did you know? Muslims believe in 25 prophets mentioned in the Quran! Prophet Nuh (Noah) lived for 950 years and built the big ship!",
+    "quiz": [
+      {
+        "q": "How many prophets are mentioned in the Quran?",
+        "options": ["10", "25", "100"],
+        "correct": 1,
+        "explanation": "25 prophets are specifically mentioned in the Quran."
+      },
+      {
+        "q": "Who is the last prophet in Islam?",
+        "options": ["Prophet Isa", "Prophet Musa", "Prophet Muhammad"],
+        "correct": 2,
+        "explanation": "Prophet Muhammad ﷺ is the last and final prophet sent by Allah."
+      },
+      {
+        "q": "What did all prophets teach?",
+        "options": ["Different messages", "Worship Allah alone and be kind", "Only pray"],
+        "correct": 1,
+        "explanation": "All prophets taught the same message: worship Allah alone and be good to others."
+      }
+    ]
+  },
+  {
+    "id": "day_of_judgment",
+    "title": "Day of Judgment",
+    "image": "myths_facts.webp",
+    "emoji": "⚖️",
+    "category": "core_beliefs",
+    "content": {
+      "starter": "One day, everyone will come back to life and stand in front of Allah! He will check all our good and bad deeds. People who did good will go to Paradise — a beautiful place with everything nice. People who were bad and didn't sorry will go to Hell. That's why we should always try to do good!",
+      "explorer": "The Day of Judgment (Yawm al-Qiyamah) is when all people will be resurrected and brought before Allah to be judged for their deeds. Every action — even the smallest kindness — will be weighed on a scale. Those whose good deeds outweigh their bad will enter Paradise (Jannah), a place of eternal happiness. Those whose bad deeds are heavier will face punishment. This belief motivates Muslims to always do their best.",
+      "thinker": "The Day of Judgment (Qiyamah) is the fifth article of Islamic faith. It is the day when all of creation will be resurrected and judged by Allah with perfect justice. The Prophet ﷺ described signs that will precede it, including major earthquakes, the sun rising from the west, and the emergence of the Dajjal. On that day, every person will receive their book of deeds — in the right hand for the righteous, in the left for the wrongdoers. The scale (Mizan) will weigh every deed, no matter how small. This belief provides moral accountability and motivates Muslims to live righteously."
+    },
+    "funFact": "Did you know? On the Day of Judgment, even a small good deed — like removing a thorn from the road — will be rewarded!",
+    "quiz": [
+      {
+        "q": "What happens on the Day of Judgment?",
+        "options": ["Everyone goes to Paradise", "Everyone is judged for their deeds", "Nothing happens"],
+        "correct": 1,
+        "explanation": "On the Day of Judgment, everyone will be judged for their good and bad deeds."
+      },
+      {
+        "q": "What is the name of Paradise in Arabic?",
+        "options": ["Jannah", "Jahannam", "Dunya"],
+        "correct": 0,
+        "explanation": "Paradise is called Jannah in Arabic — it means 'garden'."
+      },
+      {
+        "q": "Will even small deeds be judged?",
+        "options": ["No, only big deeds", "Yes, every single deed", "Only bad deeds"],
+        "correct": 1,
+        "explanation": "Every deed, no matter how small, will be weighed on the Day of Judgment."
+      }
+    ]
+  },
+  {
+    "id": "wudu",
+    "title": "Wudu - Ablution",
+    "image": "ablution_wudu.webp",
+    "emoji": "🚿",
+    "category": "daily_practices",
+    "content": {
+      "starter": "Wudu is washing before prayer! We wash our hands, mouth, nose, face, arms, head, and feet with clean water. It makes us clean and ready to talk to Allah. Wudu also washes away our small sins — how cool is that!",
+      "explorer": "Wudu is the ritual ablution Muslims perform before praying. It involves washing specific body parts in order: hands, mouth, nose, face, arms to elbows, wiping the head, and washing feet to ankles. Wudu is not just about physical cleanliness — it's also spiritual purification. Each step has benefits: washing the hands removes germs, rinsing the mouth keeps it clean, and washing the feet removes dirt from the road.",
+      "thinker": "Wudu is a beautiful act that combines physical hygiene with spiritual purification. The Quran states: 'Indeed, Allah loves those who are constantly repenting and loves those who purify themselves' (Surah Al-Baqarah 2:222). The Prophet ﷺ said that when a Muslim performs wudu and washes their face, sins fall away with the water. When they wash their hands, sins fall from their hands. When they wash their feet, sins fall from their feet. Wudu is thus both a practical act of cleanliness and a spiritual ritual of renewal."
+    },
+    "funFact": "Did you know? When you perform wudu and wash each body part, your sins fall away with the water — it's like getting a fresh start!",
+    "quiz": [
+      {
+        "q": "What do we perform before praying?",
+        "options": ["Ghusl", "Wudu", "Tayammum"],
+        "correct": 1,
+        "explanation": "We perform wudu (ablution) before praying to clean ourselves."
+      },
+      {
+        "q": "How many steps are in wudu?",
+        "options": ["3 steps", "7 steps", "10 steps"],
+        "correct": 1,
+        "explanation": "There are 7 main steps in wudu: hands, mouth, nose, face, arms, head, and feet."
+      },
+      {
+        "q": "What does wudu clean besides the body?",
+        "options": ["Our clothes", "Our sins", "Our room"],
+        "correct": 1,
+        "explanation": "Wudu washes away our small sins — it's spiritual purification too!"
+      }
+    ]
+  },
+  {
+    "id": "islamic_dress",
+    "title": "Islamic Dress",
+    "image": "islamic_dress.webp",
+    "emoji": "👗",
+    "category": "daily_practices",
+    "content": {
+      "starter": "Allah asks us to dress nicely and modestly! Boys and girls should cover their bodies properly. It's about being respectful and showing that we love Allah. Modest dressing makes us feel confident and proud of being Muslim!",
+      "explorer": "Islamic dress is about modesty and respecting Allah's guidelines. For women, this generally means covering everything except the face, hands, and feet — many choose to wear hijab (headscarf). For men, clothing should cover from the navel to the knees. The key is modesty — not showing off or wearing inappropriate clothes. Islamic dress is an act of worship and identity.",
+      "thinker": "Islamic dress codes are rooted in the Quran and Sunnah. Allah says: 'O Children of Adam, take your adornment at every masjid' (Surah Al-A'raf 7:31). The hijab is more than a piece of cloth — it's a statement of identity, dignity, and devotion to Allah. For both men and women, modest dress is about self-respect and not reducing oneself to physical appearance. It's important to understand that modesty is a comprehensive concept that includes behavior, speech, and dress. The goal is to be recognized for one's character and intellect, not merely for appearance."
+    },
+    "funFact": "Did you know? The word 'hijab' comes from Arabic and means 'curtain' or 'screen' — it's about creating a space of dignity and privacy!",
+    "quiz": [
+      {
+        "q": "What is the main purpose of Islamic dress?",
+        "options": ["Fashion", "Modesty", "Uniform"],
+        "correct": 1,
+        "explanation": "Islamic dress is about modesty and respecting Allah's guidelines."
+      },
+      {
+        "q": "What does 'hijab' mean?",
+        "options": ["Prayer", "Curtain or screen", "Charity"],
+        "correct": 1,
+        "explanation": "The word 'hijab' means 'curtain' or 'screen' in Arabic."
+      },
+      {
+        "q": "For men, what part of the body must be covered?",
+        "options": ["Only the head", "From navel to knees", "Entire body"],
+        "correct": 1,
+        "explanation": "Men must cover from the navel to the knees as a minimum."
+      }
+    ]
+  },
+  {
+    "id": "halal_food",
+    "title": "Halal Food",
+    "image": "halal_haram.webp",
+    "emoji": "🍽️",
+    "category": "daily_practices",
+    "content": {
+      "starter": "Halal means 'okay to eat' in Arabic! Allah tells us what food is good for us. We can eat fruits, vegetables, chicken, and fish. We can't eat pork or drink alcohol. We always say 'Bismillah' before eating to thank Allah!",
+      "explorer": "Halal means permissible in Islam. Allah has told us which foods are halal (allowed) and haram (forbidden). Halal foods include fruits, vegetables, grains, and properly slaughtered meat. Haram foods include pork, blood, alcohol, and meat not slaughtered in Allah's name. Saying 'Bismillah' before eating is a Sunnah and reminds us that food is a blessing from Allah.",
+      "thinker": "The concept of halal and haram in food is rooted in the Quran and Sunnah. Allah says: 'Eat of what is lawful and good on the earth' (Surah Al-Baqarah 2:168). Halal is not just about what we eat but how food is obtained — it must be through ethical, humane, and clean methods. Pork is prohibited (haram) as stated in multiple Quranic verses. Alcohol is forbidden because it clouds the mind and leads to sin. Even when eating halal food, Islam teaches moderation: 'Eat and drink, but do not be excessive' (Surah Al-A'raf 31). The act of saying 'Bismillah' before eating transforms a routine meal into an act of worship."
+    },
+    "funFact": "Did you know? Muslims say 'Bismillah' (In the name of Allah) before eating — it's like saying grace and thanking Allah for the food!",
+    "quiz": [
+      {
+        "q": "What does 'halal' mean?",
+        "options": ["Forbidden", "Permissible", "Delicious"],
+        "correct": 1,
+        "explanation": "Halal means 'permissible' — food that Allah allows us to eat."
+      },
+      {
+        "q": "Which of these is haram (forbidden) in Islam?",
+        "options": ["Chicken", "Fruits", "Pork"],
+        "correct": 2,
+        "explanation": "Pork is haram (forbidden) in Islam."
+      },
+      {
+        "q": "What do Muslims say before eating?",
+        "options": ["Alhamdulillah", "Bismillah", "Subhanallah"],
+        "correct": 1,
+        "explanation": "Muslims say 'Bismillah' (In the name of Allah) before eating."
+      }
+    ]
+  },
+  {
+    "id": "duas",
+    "title": "Duas - Supplications",
+    "image": "duas.webp",
+    "emoji": "🤲",
+    "category": "daily_practices",
+    "content": {
+      "starter": "Duas are prayers we say to Allah anytime! When we wake up, eat, go outside, or feel scared — we can talk to Allah. He always listens! There's a special dua for everything. It's like having a direct line to Allah!",
+      "explorer": "Duas are personal prayers to Allah — conversations where we ask for help, guidance, forgiveness, or express gratitude. Unlike formal salah, duas can be made anytime in any language. The Prophet ﷺ taught us specific duas for waking up, eating, traveling, and more. Making dua shows our dependence on Allah and our trust in His help.",
+      "thinker": "Duas (supplications) represent the direct relationship between a servant and Allah. The Prophet ﷺ said: 'Dua is the essence of worship.' Islam teaches duas for every occasion — from waking up ('Alhamdulillahilladhi ahyana ba'da ma amatana wa ilayhin-nushur') to entering the mosque, before sleeping, and during times of distress. Allah says: 'Call upon Me; I will respond to you' (Surah Ghafir 40:60). This is a profound promise — the Creator of the universe invites us to speak with Him directly, without any intermediary."
+    },
+    "funFact": "Did you know? There's a dua for almost everything — even for when you enter your bathroom! Allah wants us to remember Him in every moment!",
+    "quiz": [
+      {
+        "q": "What is a dua?",
+        "options": ["A type of food", "A personal prayer to Allah", "A holy book"],
+        "correct": 1,
+        "explanation": "A dua is a personal prayer — talking to Allah anytime, anywhere."
+      },
+      {
+        "q": "Can duas be made in any language?",
+        "options": ["Only in Arabic", "Only in English", "Yes, in any language"],
+        "correct": 2,
+        "explanation": "Duas can be made in any language — Allah understands all languages!"
+      },
+      {
+        "q": "What did the Prophet ﷺ say about dua?",
+        "options": ["Dua is useless", "Dua is the essence of worship", "Only pray at night"],
+        "correct": 1,
+        "explanation": "The Prophet ﷺ said: 'Dua is the essence of worship.'"
+      }
+    ]
+  },
+  {
+    "id": "reading_quran",
+    "title": "Reading Quran",
+    "image": "quran_recitation.webp",
+    "emoji": "📖",
+    "category": "daily_practices",
+    "content": {
+      "starter": "The Quran is Allah's special book! When we read it, Allah rewards us. Even reading one letter gives us 10 rewards! The Quran teaches us how to be good Muslims and how to live happily. Let's try to read a little bit every day!",
+      "explorer": "The Quran is the holy book of Islam, revealed to Prophet Muhammad ﷺ through the angel Jibril. Reading the Quran is one of the most rewarding acts a Muslim can do — each letter earns 10 rewards. Muslims try to read the Quran daily, especially during Ramadan. The Quran is in Arabic, but translations help us understand its meanings. Reading with understanding and reflection is the goal.",
+      "thinker": "The Quran is the literal word of Allah, revealed over 23 years through the angel Jibril to Prophet Muhammad ﷺ. It consists of 114 surahs (chapters) and over 6,000 ayahs (verses). The Prophet ﷺ said: 'Whoever reads a letter from the Book of Allah will have a reward, and the reward of each letter is multiplied by ten.' Beyond reading, the Quran invites contemplation (tadabbur) — understanding its messages and applying them to life. The Quran is unique in that it has been perfectly preserved in its original Arabic since its revelation, making it the only religious text with an unbroken chain of transmission."
+    },
+    "funFact": "Did you know? Reading just ONE letter of the Quran earns you 10 rewards from Allah! So reading 'Al-Fatiha' gives you over 1,000 rewards!",
+    "quiz": [
+      {
+        "q": "Who revealed the Quran to Prophet Muhammad ﷺ?",
+        "options": ["Allah directly", "Angel Jibril", "Angel Mikail"],
+        "correct": 1,
+        "explanation": "Angel Jibril (Gabriel) brought the Quran to Prophet Muhammad ﷺ."
+      },
+      {
+        "q": "How many rewards do you get for reading one letter of the Quran?",
+        "options": ["1 reward", "10 rewards", "100 rewards"],
+        "correct": 1,
+        "explanation": "The Prophet ﷺ said each letter of the Quran earns 10 rewards."
+      },
+      {
+        "q": "How many surahs (chapters) are in the Quran?",
+        "options": ["100", "114", "200"],
+        "correct": 1,
+        "explanation": "The Quran has 114 surahs (chapters)."
+      }
+    ]
+  },
+  {
+    "id": "honesty",
+    "title": "Honesty",
+    "image": "akhlaq.webp",
+    "emoji": "🤝",
+    "category": "islamic_values",
+    "content": {
+      "starter": "Honesty means always telling the truth! Allah loves people who are honest. Even if telling the truth is hard, it's always the right thing to do. When we're honest, people trust us and Allah is pleased with us!",
+      "explorer": "Honesty (Sidq) is one of the most important values in Islam. The Prophet ﷺ was known as 'Al-Amin' — the Trustworthy — because he always told the truth. Islam teaches us to be honest in our words, actions, and intentions. Lying is a major sin that can damage relationships and break trust. Being honest, even when it's difficult, earns Allah's love and the respect of others.",
+      "thinker": "Honesty (Sidq) and trustworthiness (Amanah) are foundational Islamic virtues. The Prophet ﷺ said: 'Truthfulness leads to righteousness, and righteousness leads to Paradise.' Honesty is not merely about not lying — it encompasses sincerity in intentions, accuracy in reporting, and integrity in all dealings. Allah says in the Quran: 'O you who believe, fear Allah and be among the truthful' (Surah At-Tawbah 9:119). The concept extends to being honest with oneself, honest in worship, and honest in business dealings."
+    },
+    "funFact": "Did you know? Prophet Muhammad ﷺ was called 'Al-Amin' (The Trustworthy) even before he became a prophet — because he NEVER told a lie!",
+    "quiz": [
+      {
+        "q": "What was Prophet Muhammad ﷺ's nickname before prophethood?",
+        "options": ["Al-Hakim", "Al-Amin", "Al-Karim"],
+        "correct": 1,
+        "explanation": "He was called 'Al-Amin' (The Trustworthy) because he always told the truth."
+      },
+      {
+        "q": "Is honesty only about not lying?",
+        "options": ["Yes", "No, it includes sincerity and integrity too", "Sometimes"],
+        "correct": 1,
+        "explanation": "Honesty includes being truthful, sincere, and having integrity in everything."
+      },
+      {
+        "q": "What does Allah say about truthful people?",
+        "options": ["They are punished", "He loves them", "They are ignored"],
+        "correct": 1,
+        "explanation": "Allah loves truthful people and promises them Paradise."
+      }
+    ]
+  },
+  {
+    "id": "kindness",
+    "title": "Kindness",
+    "image": "helping_poor.webp",
+    "emoji": "💕",
+    "category": "islamic_values",
+    "content": {
+      "starter": "Kindness means being nice to everyone! Help your friends, smile at people, share your toys, and be gentle. The Prophet ﷺ was the kindest person ever! When we're kind, Allah rewards us and everyone loves us!",
+      "explorer": "Kindness (Ihsan) is at the heart of Islamic teaching. The Prophet ﷺ said: 'The most beloved of people to Allah are those who are most beneficial to people.' Being kind means helping others, smiling, sharing, and treating everyone with respect — whether they're Muslim or not. Islam teaches that even a smile is charity (sadaqah).",
+      "thinker": "Kindness (Ihsan and Rahmah) is a comprehensive Islamic virtue. The Prophet ﷺ embodied mercy — the Quran describes him as 'a mercy to all the worlds' (Surah Al-Anbiya 21:107). Kindness extends to all creation: family, neighbors, strangers, animals, and even the environment. The Prophet ﷺ said: 'Charity does not decrease wealth. No one forgives another except that Allah increases his honor. And no one humbles himself for the sake of Allah except that Allah raises his status.' True kindness in Islam is not performative but stems from genuine love for Allah and His creation."
+    },
+    "funFact": "Did you know? The Prophet ﷺ said that even smiling at someone is a form of charity! You can earn rewards just by being friendly!",
+    "quiz": [
+      {
+        "q": "What did the Prophet ﷺ say about smiling?",
+        "options": ["It's sinful", "It's a form of charity", "It's meaningless"],
+        "correct": 1,
+        "explanation": "The Prophet ﷺ said even a smile is charity (sadaqah)."
+      },
+      {
+        "q": "Who should we be kind to?",
+        "options": ["Only Muslims", "Only family", "Everyone"],
+        "correct": 2,
+        "explanation": "Islam teaches us to be kind to everyone — Muslim or not."
+      },
+      {
+        "q": "What is the most beloved person to Allah?",
+        "options": ["The richest", "The most beautiful", "The most beneficial to others"],
+        "correct": 2,
+        "explanation": "The Prophet ﷺ said the most beloved to Allah are those most beneficial to people."
+      }
+    ]
+  },
+  {
+    "id": "respect",
+    "title": "Respect",
+    "image": "respect_elders.webp",
+    "emoji": "🙏",
+    "category": "islamic_values",
+    "content": {
+      "starter": "Respect means treating people nicely and politely! We respect our parents, teachers, and elders. We say 'please' and 'thank you.' We listen when others talk. Allah loves people who are respectful!",
+      "explorer": "Respect (Adab) is a key Islamic value. The Quran commands us to honor our parents, be kind to neighbors, and treat elders with dignity. The Prophet ﷺ taught that respect is not just about words but actions — standing up for elders, listening attentively, and honoring others' feelings. Respect also extends to respecting differences of opinion.",
+      "thinker": "Respect (Adab) in Islam is a comprehensive concept that encompasses how we relate to Allah, His creation, and ourselves. The Quran says: 'And your Lord has decreed that you worship none but Him, and that you be dutiful to your parents' (Surah Al-Isra 17:23). Respect for parents is given such high status that it appears immediately after the command to worship Allah alone. Beyond parents, Islam teaches respect for scholars, neighbors, the elderly, and even strangers. The Prophet ﷺ demonstrated this by standing when a funeral passed, greeting children, and honoring the rights of neighbors regardless of their faith."
+    },
+    "funFact": "Did you know? In Islam, respecting your parents is considered the SECOND most important duty after worshipping Allah alone!",
+    "quiz": [
+      {
+        "q": "What comes right after worshipping Allah in importance?",
+        "options": ["Being rich", "Respecting parents", "Going to Hajj"],
+        "correct": 1,
+        "explanation": "The Quran commands us to worship Allah alone, then to honor our parents."
+      },
+      {
+        "q": "How should we treat elders?",
+        "options": ["Ignore them", "With disrespect", "With honor and dignity"],
+        "correct": 2,
+        "explanation": "Islam teaches us to treat elders with honor and dignity."
+      },
+      {
+        "q": "What does 'Adab' mean?",
+        "options": ["Prayer", "Respect and good manners", "Food"],
+        "correct": 1,
+        "explanation": "Adab means respect, good manners, and proper etiquette in Islam."
+      }
+    ]
+  },
+  {
+    "id": "patience",
+    "title": "Patience",
+    "image": "shared_values.webp",
+    "emoji": "🧘",
+    "category": "islamic_values",
+    "content": {
+      "starter": "Patience means waiting calmly and not getting upset when things are hard! When you're sick, or something goes wrong, or you have to wait — be patient! Allah loves patient people and will reward them!",
+      "explorer": "Patience (Sabr) is one of the greatest virtues in Islam. The Quran says: 'Indeed, the patient will be given their reward without account' (Surah Az-Zumar 39:10). Sabr means staying calm during difficulties, resisting temptation, and being content with Allah's plan. The Prophet ﷺ compared patience to a precious gem — it's hard to find but incredibly valuable.",
+      "thinker": "Patience (Sabr) is one of the most emphasized virtues in Islam. The Quran mentions it over 70 times. Sabr has three dimensions: patience in obeying Allah (perseverance), patience in avoiding sin (restraint), and patience during hardship (endurance). Allah says: 'And be patient, for indeed, Allah does not allow to be lost the reward of those who do good' (Surah Hud 11:115). The Prophet ﷺ said: 'How wonderful is the affair of the believer, for all his affairs are good, and this does not apply to anyone except the believer. If something good happens to him, he is grateful, and that is good for him. If something bad happens to him, he bears it with patience, and that is good for him.'"
+    },
+    "funFact": "Did you know? Allah mentions patience (Sabr) over 70 times in the Quran — it's one of the most important qualities a Muslim can have!",
+    "quiz": [
+      {
+        "q": "What is 'Sabr'?",
+        "options": ["Prayer", "Patience", "Charity"],
+        "correct": 1,
+        "explanation": "Sabr means patience — staying calm during difficulties and trusting Allah."
+      },
+      {
+        "q": "How many times does Allah mention patience in the Quran?",
+        "options": ["5 times", "Over 70 times", "100 times"],
+        "correct": 1,
+        "explanation": "Allah mentions patience (Sabr) over 70 times in the Quran."
+      },
+      {
+        "q": "What happens to patient people?",
+        "options": ["Nothing", "They are rewarded without limit", "They are punished"],
+        "correct": 1,
+        "explanation": "Allah says the patient will be given their reward without account."
+      }
+    ]
+  },
+  {
+    "id": "gratitude",
+    "title": "Gratitude",
+    "image": "hiba_gifts.webp",
+    "emoji": "🙏",
+    "category": "islamic_values",
+    "content": {
+      "starter": "Gratitude means saying 'thank you' to Allah for everything! For food, family, friends, health — everything! When we're thankful, Allah gives us more blessings. A grateful heart is a happy heart!",
+      "explorer": "Gratitude (Shukr) means recognizing and appreciating Allah's blessings. The Quran says: 'If you are grateful, I will surely increase you' (Surah Ibrahim 14:7). Gratitude isn't just saying 'Alhamdulillah' — it's using Allah's blessings in ways that please Him. When we're grateful for health, we use it to do good. When we're grateful for wealth, we share it with others.",
+      "thinker": "Gratitude (Shukr) is a comprehensive Islamic concept that goes beyond simple thankfulness. It has three dimensions: gratitude of the heart (recognizing blessings), gratitude of the tongue (verbal thanks and praise), and gratitude of the limbs (using blessings in obedience to Allah). The Quran warns against ingratitude: 'If you are ungrateful, indeed, my punishment is severe' (Surah Ibrahim 14:7). The Prophet ﷺ would pray at night until his feet would swell, and when asked why, he would say: 'Should I not be a grateful servant?' Gratitude transforms our perspective — even in hardship, a grateful person finds blessings to thank Allah for."
+    },
+    "funFact": "Did you know? The Prophet ﷺ would pray at night until his feet swelled — and when asked why, he said: 'Should I not be a grateful servant?'",
+    "quiz": [
+      {
+        "q": "What does 'Shukr' mean?",
+        "options": ["Prayer", "Gratitude", "Fasting"],
+        "correct": 1,
+        "explanation": "Shukr means gratitude — being thankful to Allah for His blessings."
+      },
+      {
+        "q": "What does Allah promise to grateful people?",
+        "options": ["Nothing", "He will increase their blessings", "He will punish them"],
+        "correct": 1,
+        "explanation": "Allah says: 'If you are grateful, I will surely increase you.'"
+      },
+      {
+        "q": "What are the three dimensions of gratitude?",
+        "options": ["Heart, tongue, and limbs", "Mind, body, soul", "Morning, afternoon, night"],
+        "correct": 0,
+        "explanation": "Gratitude is expressed through the heart (recognizing), tongue (thanking), and limbs (using blessings to do good)."
+      }
+    ]
+  },
+  {
+    "id": "prophet_muhammad",
+    "title": "Prophet Muhammad ﷺ",
+    "image": "prophet_journey.webp",
+    "emoji": "☪️",
+    "category": "stories_history",
+    "content": {
+      "starter": "Prophet Muhammad ﷺ was the best person ever! He was kind, honest, and brave. He taught us about Allah and how to be good Muslims. He loved children and animals. We follow his example every day!",
+      "explorer": "Prophet Muhammad ﷺ was born in Mecca in 570 CE. He was known as 'Al-Amin' (The Trustworthy) even before prophethood. At age 40, Angel Jibril brought him the first revelation in the cave of Hira. He spent 23 years teaching Islam, facing persecution, and building a just community. He passed away in Medina in 632 CE, leaving behind a message for all of humanity.",
+      "thinker": "Prophet Muhammad ﷺ is the final messenger of Allah and the most influential person in history. Born an orphan, raised by his grandfather Abdul Muttalib and then his uncle Abu Talib, he grew up to be known for his truthfulness and integrity. The Quran describes him as 'a mercy to all the worlds' (21:107). His life (Seerah) is a comprehensive guide — from the early persecution in Mecca to the establishment of the first Islamic state in Medina, from the Treaty of Hudaybiyyah to the conquest of Mecca. He taught through example: he prayed until his feet swelled, gave charity until he had nothing left, and treated everyone with dignity regardless of their status."
+    },
+    "funFact": "Did you know? Prophet Muhammad ﷺ was an orphan — his father died before he was born and his mother when he was only 6 years old. Despite this, he became the greatest person in history!",
+    "quiz": [
+      {
+        "q": "In which city was Prophet Muhammad ﷺ born?",
+        "options": ["Medina", "Mecca", "Jerusalem"],
+        "correct": 1,
+        "explanation": "Prophet Muhammad ﷺ was born in Mecca in 570 CE."
+      },
+      {
+        "q": "What was Prophet Muhammad ﷺ's nickname before prophethood?",
+        "options": ["Al-Hakim", "Al-Amin", "Al-Karim"],
+        "correct": 1,
+        "explanation": "He was called 'Al-Amin' (The Trustworthy) because he always told the truth."
+      },
+      {
+        "q": "How old was Prophet Muhammad ﷺ when he received the first revelation?",
+        "options": ["25", "30", "40"],
+        "correct": 2,
+        "explanation": "Prophet Muhammad ﷺ was 40 years old when Angel Jibril brought the first revelation."
+      }
+    ]
+  },
+  {
+    "id": "prophet_ibrahim",
+    "title": "Prophet Ibrahim",
+    "image": "imgi_21_topic_abrahamic_religions.webp",
+    "emoji": "🏗️",
+    "category": "stories_history",
+    "content": {
+      "starter": "Prophet Ibrahim loved Allah more than anything! He looked at the stars and knew they couldn't be God. He broke the idols people worshipped and told them only Allah deserves worship. Allah made him a great leader!",
+      "explorer": "Prophet Ibrahim (Abraham) is one of the greatest prophets. He realized at a young age that idols couldn't be God — they couldn't create or help anyone. He broke the idols and called people to worship Allah alone. Allah tested him greatly — He asked Ibrahim to leave his homeland, sacrifice his son, and build the Kaaba. Ibrahim obeyed every command, showing incredible faith.",
+      "thinker": "Prophet Ibrahim (Abraham) is known as 'Khalilullah' — the Friend of Allah. His story is one of absolute submission to divine will. He questioned his father's idol worship, challenged King Namrud, and was thrown into fire for his faith — yet Allah saved him. The sacrifice of his son Ismail (Ismail) is commemorated every year during Eid al-Adha. Ibrahim's willingness to leave his wife Hajar and infant son Ismail in the desert of Mecca — trusting completely in Allah's plan — led to the establishment of the Kaaba and the Zamzam well. He is the patriarch of the Abrahamic faiths and an enduring example of total trust in Allah."
+    },
+    "funFact": "Did you know? When Ibrahim was thrown into a giant fire, Allah said 'O fire, be cool and peaceful!' — and the fire didn't even burn him!",
+    "quiz": [
+      {
+        "q": "What was Prophet Ibrahim known as?",
+        "options": ["Prophet of Thunder", "Friend of Allah", "King of Nations"],
+        "correct": 1,
+        "explanation": "Ibrahim is called 'Khalilullah' — the Friend of Allah."
+      },
+      {
+        "q": "What did Ibrahim break?",
+        "options": ["The Kaaba", "Idols people worshipped", "A window"],
+        "correct": 1,
+        "explanation": "Ibrahim broke the idols people were worshipping to show only Allah deserves worship."
+      },
+      {
+        "q": "What did Allah ask Ibrahim to build?",
+        "options": ["A house", "The Kaaba", "A school"],
+        "correct": 1,
+        "explanation": "Allah asked Ibrahim to build the Kaaba in Mecca."
+      }
+    ]
+  },
+  {
+    "id": "islamic_civilization",
+    "title": "Islamic Civilization",
+    "image": "islamic_civilization.webp",
+    "emoji": "🏛️",
+    "category": "stories_history",
+    "content": {
+      "starter": "Muslims built amazing things long ago! They made beautiful mosques, hospitals, schools, and libraries. They studied science, math, and medicine. Muslims invented things we still use today — like cameras, universities, and coffee!",
+      "explorer": "Islamic civilization made incredible contributions to the world. Muslim scholars invented algebra, developed modern medicine, built the first universities, and preserved ancient Greek knowledge. Cities like Baghdad, Cordoba, and Cairo were centers of learning. Inventions include the camera (camera obscura), surgical instruments, and windmills. Muslims also built beautiful architecture like the Alhambra and the Dome of the Rock.",
+      "thinker": "The Islamic Golden Age (8th-14th centuries) was one of the most productive periods of scholarship in human history. Scholars like Al-Khwarizmi (algebra), Ibn Sina (medicine), Al-Kindi (philosophy), and Fatima al-Fihri (first university) transformed human knowledge. The House of Wisdom in Baghdad translated and preserved Greek, Persian, and Indian texts that would have been lost. Islamic civilization pioneered hospitals (bimaristans), observatories, and public libraries. The concept of the university was literally invented by Muslims — the University of al-Qarawiyyin in Fez, Morocco, founded by Fatima al-Fihri in 859 CE, is recognized by UNESCO as the oldest existing university."
+    },
+    "funFact": "Did you know? The first university in the world was built by a Muslim woman — Fatima al-Fihri — in Morocco in the year 859 CE!",
+    "quiz": [
+      {
+        "q": "What did Al-Khwarizmi invent?",
+        "options": ["Medicine", "Algebra", "Astronomy"],
+        "correct": 1,
+        "explanation": "Al-Khwarizmi invented algebra — the word 'algorithm' comes from his name!"
+      },
+      {
+        "q": "Who built the first university in the world?",
+        "options": ["A Muslim man", "Fatima al-Fihri", "A Greek scholar"],
+        "correct": 1,
+        "explanation": "Fatima al-Fihri, a Muslim woman, built the first university in Morocco in 859 CE."
+      },
+      {
+        "q": "What was the Islamic Golden Age known for?",
+        "options": ["Only art", "Advances in science, math, and medicine", "Only farming"],
+        "correct": 1,
+        "explanation": "Muslims made incredible advances in science, math, medicine, and many other fields."
+      }
+    ]
+  },
+  {
+    "id": "ramadan",
+    "title": "Ramadan",
+    "image": "ramadan_overview.webp",
+    "emoji": "🌙",
+    "category": "special_times",
+    "content": {
+      "starter": "Ramadan is the best month! It's when Allah sent the Quran. We fast from sunrise to sunset — no eating or drinking! At night, we pray, read Quran, and have iftar with family. Everyone is happy and kind during Ramadan!",
+      "explorer": "Ramadan is the ninth month of the Islamic calendar and the holiest month for Muslims. The Quran was first revealed during Ramadan. Muslims fast from dawn to sunset, refraining from food, drink, and other physical needs. It's a time of increased prayer, charity, and Quran reading. Ramadan teaches self-discipline, empathy for the poor, and brings families and communities together.",
+      "thinker": "Ramadan is the month in which the Quran was revealed as guidance for humanity (Surah Al-Baqarah 2:185). Fasting (Sawm) during Ramadan is the fourth pillar of Islam and serves multiple purposes: developing taqwa (God-consciousness), purifying the soul, building empathy for the less fortunate, and strengthening community bonds. The pre-dawn meal (Suhoor) and sunset meal (Iftar) create a spiritual rhythm throughout the month. The last 10 nights are especially sacred, as Laylat al-Qadr (the Night of Power) — described as 'better than a thousand months' — falls within them. Ramadan transforms communities: charity increases, tempers cool, and hearts soften."
+    },
+    "funFact": "Did you know? Laylat al-Qadr (the Night of Power) in Ramadan is better than 1,000 months — that's over 83 years of blessings in just one night!",
+    "quiz": [
+      {
+        "q": "During which month was the Quran revealed?",
+        "options": ["Muharram", "Ramadan", "Shawwal"],
+        "correct": 1,
+        "explanation": "The Quran was first revealed during the month of Ramadan."
+      },
+      {
+        "q": "What is Laylat al-Qadr?",
+        "options": ["A regular night", "The Night of Power, better than 1,000 months", "The first day of Ramadan"],
+        "correct": 1,
+        "explanation": "Laylat al-Qadr (Night of Power) is better than 1,000 months of worship."
+      },
+      {
+        "q": "What is the pre-dawn meal called?",
+        "options": ["Iftar", "Suhoor", "Dhuhr"],
+        "correct": 1,
+        "explanation": "The pre-dawn meal before fasting is called Suhoor."
+      }
+    ]
+  },
+  {
+    "id": "eid_al_fitr",
+    "title": "Eid al-Fitr",
+    "image": "eid_fitr.webp",
+    "emoji": "🎉",
+    "category": "special_times",
+    "content": {
+      "starter": "Eid al-Fitr is the happy day after Ramadan! We wear new clothes, eat yummy food, give gifts, and say 'Eid Mubarak!' to everyone. We give money to poor people called Zakat al-Fitr. It's like a big party for Allah!",
+      "explorer": "Eid al-Fitr marks the end of Ramadan and is one of the two major Islamic holidays. Muslims gather for a special prayer, give Zakat al-Fitr (charity to the poor), wear their best clothes, and celebrate with family and friends. Children receive gifts and money (Eidi). It's a day of joy, gratitude, and community after a month of fasting and worship.",
+      "thinker": "Eid al-Fitr ('Festival of Breaking the Fast') is celebrated on the first day of Shawwal, the month following Ramadan. It begins with a special congregational prayer and sermon, followed by Zakat al-Fitr — a mandatory charity given before the Eid prayer to ensure even the poorest can celebrate. The Prophet ﷺ would wear his best clothes on Eid and apply perfume. Eid is a day of celebration, but also of reflection — thanking Allah for the strength to complete Ramadan and asking for acceptance of our worship. It strengthens community bonds as Muslims visit relatives, share meals, and reconcile differences."
+    },
+    "funFact": "Did you know? On Eid, you must give charity (Zakat al-Fitr) BEFORE the Eid prayer — so even poor people can celebrate!",
+    "quiz": [
+      {
+        "q": "When is Eid al-Fitr celebrated?",
+        "options": ["Beginning of Ramadan", "End of Ramadan", "Middle of Ramadan"],
+        "correct": 1,
+        "explanation": "Eid al-Fitr is celebrated at the end of Ramadan."
+      },
+      {
+        "q": "What must Muslims give before Eid prayer?",
+        "options": ["More fasting", "Zakat al-Fitr (charity)", "A new car"],
+        "correct": 1,
+        "explanation": "Zakat al-Fitr is charity given before Eid prayer so the poor can celebrate too."
+      },
+      {
+        "q": "What do we say to others on Eid?",
+        "options": ["Happy Birthday", "Eid Mubarak", "Good Morning"],
+        "correct": 1,
+        "explanation": "We say 'Eid Mubarak' — meaning 'Blessed Eid!'"
+      }
+    ]
+  },
+  {
+    "id": "eid_al_adha",
+    "title": "Eid al-Adha",
+    "image": "eid_adha.webp",
+    "emoji": "🐑",
+    "category": "special_times",
+    "content": {
+      "starter": "Eid al-Adha is the big Eid! It remembers when Prophet Ibrahim was ready to sacrifice his son for Allah. Allah was so happy with his faith that He sent a sheep instead! We sacrifice an animal and share the meat with family and poor people!",
+      "explorer": "Eid al-Adha ('Festival of Sacrifice') honors Prophet Ibrahim's willingness to sacrifice his son Ismail for Allah. Before Eid, Muslims who can afford it sacrifice an animal (sheep, goat, cow, or camel) and divide the meat into three parts: one for family, one for friends and neighbors, one for the poor. It coincides with the Hajj pilgrimage and is one of the two major Islamic holidays.",
+      "thinker": "Eid al-Adha commemorates one of the most profound acts of faith in Islamic history — Prophet Ibrahim's willingness to sacrifice his son Ismail in complete obedience to Allah. Just as Ibrahim was about to carry out the sacrifice, Allah replaced Ismail with a ram, and the sacrifice was accepted symbolically. This event is commemorated by millions of Muslims worldwide who sacrifice an animal during the days of Eid. The meat is divided into thirds: family, friends/neighbors, and the poor. Eid al-Adha coincides with the Hajj pilgrimage — while pilgrims are at Arafat, Muslims worldwide celebrate this festival of sacrifice, gratitude, and community."
+    },
+    "funFact": "Did you know? Eid al-Adha remembers when Prophet Ibrahim was ready to sacrifice his son for Allah — but Allah sent a ram instead as a test of faith!",
+    "quiz": [
+      {
+        "q": "What does Eid al-Adha remember?",
+        "options": ["Ramadan ending", "Ibrahim's willingness to sacrifice his son", "The Quran being revealed"],
+        "correct": 1,
+        "explanation": "Eid al-Adha remembers when Prophet Ibrahim was ready to sacrifice his son for Allah."
+      },
+      {
+        "q": "How many parts is the sacrificial meat divided into?",
+        "options": ["One part", "Two parts", "Three parts"],
+        "correct": 2,
+        "explanation": "The meat is divided into three: family, friends/neighbors, and the poor."
+      },
+      {
+        "q": "What did Allah send instead of Ibrahim's son?",
+        "options": ["Nothing", "A ram (sheep)", "An angel"],
+        "correct": 1,
+        "explanation": "Allah sent a ram to be sacrificed instead, accepting Ibrahim's willingness."
+      }
+    ]
+  }
+]

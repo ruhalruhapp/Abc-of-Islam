@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300;400;500;600;700&family=Quicksand:wght@400;500;600;700&family=JetBrains+Mono:wght@500&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Quicksand", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Fredoka", "Quicksand", Georgia, Cambria, serif;
+  --font-display: "Fredoka", sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, monospace;
+}
+
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0px) rotate(0deg);
+  }
+  50% {
+    transform: translateY(-8px) rotate(2deg);
+  }
+}
+
+@keyframes bubble {
+  0%, 100% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.05);
+  }
+}
+
+.float-animation {
+  animation: float 6s ease-in-out infinite;
+}
+
+.bubble-hover {
+  transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+.bubble-hover:hover {
+  transform: scale(1.04) translateY(-3px);
+  box-shadow: 0 15px 30px rgba(0,0,0,0.06);
+}
+
+/* Custom friendly bubbly shadows */
+.card-shadow {
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.04);
+}
+
+.editorial-shadow {
+  box-shadow: 0 12px 32px rgba(10, 84, 48, 0.05);
+}
+
+.gradient-text {
+  background: linear-gradient(135deg, #FF6B6B, #4D96FF);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+body {
+  background-color: #F8FAF5; /* Peaceful pastel soft green-tinted white */
+  font-family: var(--font-sans);
+  color: #2C3E50;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+/* Custom smooth scrollbar styling */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: transparent;
+}
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: rgba(16, 185, 129, 0.25);
+  border-radius: 9999px;
+}
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: rgba(16, 185, 129, 0.455);
+}
+
+.custom-scrollbar {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(16, 185, 129, 0.25) transparent;
+}
+
+/* Hide navigation & actions on paper print outputs */
+@media print {
+  .no-print {
+    display: none !important;
+  }
+  body {
+    background: white !important;
+    color: black !important;
+  }
+}

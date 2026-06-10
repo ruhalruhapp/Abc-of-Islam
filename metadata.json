@@ -1,0 +1,6 @@
+{
+  "name": "ABC Of Islam",
+  "description": "An interactive, multi-lingual, and gamified alphabetical learning platform teaching 26 foundational chapters of Islam to kids of different age groups with quiz sheets, offline narrations, and document downloads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

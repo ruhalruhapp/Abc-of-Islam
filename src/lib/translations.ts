@@ -32,6 +32,8 @@ const TRANSLATIONS: Record<Locale, {
   exportPrint: string;
   exportTitle: string;
   exportDesc: string;
+  previous: string;
+  nextTopic: string;
 }> = {
   en: {
     title: 'ABC Of Islam',
@@ -65,6 +67,8 @@ const TRANSLATIONS: Record<Locale, {
     exportPrint: 'Print',
     exportTitle: 'Export / Download',
     exportDesc: 'Get your copy of ABC Of Islam',
+    previous: 'Previous',
+    nextTopic: 'Next Topic',
   },
   ar: {
     title: 'أبجدية الإسلام',
@@ -98,6 +102,8 @@ const TRANSLATIONS: Record<Locale, {
     exportPrint: 'طباعة',
     exportTitle: 'تصدير / تحميل',
     exportDesc: 'احصل على نسخة من أبجدية الإسلام',
+    previous: 'السابق',
+    nextTopic: 'الموضوع التالي',
   },
   ur: {
     title: 'اسلام کی تہجی',
@@ -131,6 +137,8 @@ const TRANSLATIONS: Record<Locale, {
     exportPrint: 'پرنٹ',
     exportTitle: 'ایکسپورٹ / ڈاؤنلوڈ',
     exportDesc: 'اسلام کی تہجی کی کاپی حاصل کریں',
+    previous: 'پچھلا',
+    nextTopic: 'اگلا موضوع',
   },
   tr: {
     title: 'İslam Alfabesi',
@@ -164,6 +172,8 @@ const TRANSLATIONS: Record<Locale, {
     exportPrint: 'Yazdır',
     exportTitle: 'Dışa Aktar / İndir',
     exportDesc: 'İslam Alfabesi kopyanızı alın',
+    previous: 'Önceki',
+    nextTopic: 'Sonraki Konu',
   },
   fr: {
     title: 'L\'ABC de l\'Islam',
@@ -197,6 +207,8 @@ const TRANSLATIONS: Record<Locale, {
     exportPrint: 'Imprimer',
     exportTitle: 'Exporter / Télécharger',
     exportDesc: 'Obtenez votre copie de L\'ABC de l\'Islam',
+    previous: 'Précédent',
+    nextTopic: 'Sujet Suivant',
   },
   es: {
     title: 'El ABC del Islam',
@@ -230,6 +242,8 @@ const TRANSLATIONS: Record<Locale, {
     exportPrint: 'Imprimir',
     exportTitle: 'Exportar / Descargar',
     exportDesc: 'Obtén tu copia de El ABC del Islam',
+    previous: 'Anterior',
+    nextTopic: 'Siguiente Tema',
   },
   hi: {
     title: 'इस्लाम की ABC',
@@ -263,6 +277,8 @@ const TRANSLATIONS: Record<Locale, {
     exportPrint: 'प्रिंट',
     exportTitle: 'निर्यात / डाउनलोड',
     exportDesc: 'इस्लाम की ABC की प्रतिलिपि प्राप्त करें',
+    previous: 'पिछला',
+    nextTopic: 'अगला विषय',
   },
   id: {
     title: 'ABC Islam',
@@ -296,6 +312,8 @@ const TRANSLATIONS: Record<Locale, {
     exportPrint: 'Cetak',
     exportTitle: 'Ekspor / Unduh',
     exportDesc: 'Dapatkan salinan ABC Islam',
+    previous: 'Sebelumnya',
+    nextTopic: 'Topik Berikutnya',
   },
   de: {
     title: 'Das ABC des Islam',
@@ -329,6 +347,8 @@ const TRANSLATIONS: Record<Locale, {
     exportPrint: 'Drucken',
     exportTitle: 'Exportieren / Herunterladen',
     exportDesc: 'Holen Sie sich Ihre Kopie von Das ABC des Islam',
+    previous: 'Zurück',
+    nextTopic: 'Nächstes Thema',
   },
   ru: {
     title: 'Алфавит Ислама',
@@ -362,6 +382,8 @@ const TRANSLATIONS: Record<Locale, {
     exportPrint: 'Печать',
     exportTitle: 'Экспорт / Скачать',
     exportDesc: 'Получите копию Алфавита Ислама',
+    previous: 'Назад',
+    nextTopic: 'Следующая Тема',
   },
   bn: {
     title: 'ইসলামের ABC',
@@ -395,6 +417,8 @@ const TRANSLATIONS: Record<Locale, {
     exportPrint: 'প্রিন্ট',
     exportTitle: 'রপ্তানি / ডাউনলোড',
     exportDesc: 'ইসলামের ABC এর কপি পান',
+    previous: 'পূর্ববর্তী',
+    nextTopic: 'পরবর্তী বিষয়',
   },
   pt: {
     title: 'O ABC do Islã',
@@ -428,6 +452,8 @@ const TRANSLATIONS: Record<Locale, {
     exportPrint: 'Imprimir',
     exportTitle: 'Exportar / Baixar',
     exportDesc: 'Obtenha sua cópia de O ABC do Islã',
+    previous: 'Anterior',
+    nextTopic: 'Próximo Tópico',
   },
   zh: {
     title: '伊斯兰ABC',
@@ -461,6 +487,8 @@ const TRANSLATIONS: Record<Locale, {
     exportPrint: '打印',
     exportTitle: '导出 / 下载',
     exportDesc: '获取伊斯兰ABC的副本',
+    previous: '上一个',
+    nextTopic: '下一个主题',
   },
   ja: {
     title: 'イスラムのABC',
@@ -494,6 +522,8 @@ const TRANSLATIONS: Record<Locale, {
     exportPrint: '印刷',
     exportTitle: 'エクスポート / ダウンロード',
     exportDesc: 'イスラムのABCのコピーを取得',
+    previous: '前へ',
+    nextTopic: '次のトピック',
   },
   sw: {
     title: 'ABC ya Uislamu',
@@ -527,6 +557,8 @@ const TRANSLATIONS: Record<Locale, {
     exportPrint: 'Chapisha',
     exportTitle: 'Hamisha / Pakua',
     exportDesc: 'Pata nakala yako ya ABC ya Uislamu',
+    previous: 'Iliyotangulia',
+    nextTopic: 'Mada Inayofuata',
   },
   ko: {
     title: '이슬람의 ABC',
@@ -560,6 +592,8 @@ const TRANSLATIONS: Record<Locale, {
     exportPrint: '인쇄',
     exportTitle: '내보내기 / 다운로드',
     exportDesc: '이슬람의 ABC 사본을 받으세요',
+    previous: '이전',
+    nextTopic: '다음 주제',
   },
 };
 
